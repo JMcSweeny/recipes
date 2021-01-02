@@ -2,6 +2,7 @@ module.exports = {
   purge: ["./src/**/*.tsx"],
   darkMode: "class", // or 'media' or 'class'
   theme: {
+    extend: {},
     height: (theme) => ({
       auto: "auto",
       ...theme("spacing"),
