@@ -23,7 +23,7 @@ export const Login = () => {
 
   return (
     <div className="h-screen flex items-center">
-      <div className="shadow rounded mb-6 w-full">
+      <div className="rounded mb-6 w-full">
         <form className="p-4" onSubmit={handleSubmit}>
           <input
             type="text"

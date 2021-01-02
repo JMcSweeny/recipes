@@ -10,7 +10,7 @@ import { RecipeDetail } from "./RecipeDetail";
 export const App = () => {
   return (
     <div>
-      <div className="max-w-xl mx-auto shadow-lg">
+      <div className="max-w-xl mx-auto">
         <Switch>
           <ProtectedRoute path="/" exact>
             <Home />
