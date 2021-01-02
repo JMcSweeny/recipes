@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+  @apply appearance-none w-full px-3 py-2 border border-gray-300 placeholder-gray-500 rounded focus:outline-none focus:border-blue-400;
+}

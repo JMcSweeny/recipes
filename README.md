@@ -1,1 +1,1 @@
-https://recipes.jamesmcsweeny.com
+https://recipes.jamesmcsweeny.comi
